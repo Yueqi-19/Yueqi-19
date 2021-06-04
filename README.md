@@ -24,7 +24,14 @@ Here are some ideas to get you started:-->
 ![Metrics](https://metrics.lecoq.io/Yueqi-19?template=classic&config.timezone=America%2FChicago)
 
 
+
+# Main Programming Language
+[![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://reactjs.org/)
+
+# Vistors
 ![](https://visitor-badge.glitch.me/badge?page_id=Yueqi-19.readme)
 
+
+# Personal Information
 
 https://leetcode-cn.com/u/yoki-lee/
