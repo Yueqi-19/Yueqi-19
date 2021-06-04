@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yueqi Li</h1>
+<h1 align="center">Howdy 👋, I'm Yueqi Li</h1>
 <h3 align="center">A passionate Full-Stack developer in Texas</h3>
 
 
