@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **SpringBoot Frameworks**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Yueqi-19?tab=repositories](https://github.com/Yueqi-19?tab=repositories)
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/Yueqi-19?tab=repositories)
 
 - 📫 How to reach me **liyueqi235@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/yueqi-yoki-l-131b7b139/](https://www.linkedin.com/in/yueqi-yoki-l-131b7b139/)
+- 📄 Know about my experiences [Personal Website](https://github.com/Yueqi-19?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
