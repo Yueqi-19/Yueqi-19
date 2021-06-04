@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm Yueqi Li</h1>
 <h3 align="center">A passionate Full-Stack developer in Texas</h3>
+
+
+
 - 🌱 I’m currently learning **SpringBoot Frameworks**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Yueqi-19?tab=repositories](https://github.com/Yueqi-19?tab=repositories)
 
 - 📫 How to reach me **liyueqi235@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/yueqi19/](https://www.linkedin.com/in/yueqi19/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/yueqi-yoki-l-131b7b139/](https://www.linkedin.com/in/yueqi-yoki-l-131b7b139/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
