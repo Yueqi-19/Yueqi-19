@@ -1,5 +1,5 @@
 <h1 align="center">Howdy 👋, I'm Yueqi Li</h1>
-<h3 align="center">A passionate Full-Stack developer in Texas</h3>
+<h3 align="center">A passionate Full-Stack Engineer in Texas</h3>
 
 
 
