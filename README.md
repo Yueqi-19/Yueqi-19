@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **Spring Boot Framework**
+- 🌱 I’m currently learning **Spring Framework**
 
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/Yueqi-19?tab=repositories)
 
