@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **liyueqi235@gmail.com**
 
-- 📄 Know about my experiences [Personal Website](https://github.com/Yueqi-19?tab=repositories)
+- 📄 Know about my experiences [Personal Website](https://www.linkedin.com/in/yueqi19/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
