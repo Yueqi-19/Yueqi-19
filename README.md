@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/Yueqi-19?tab=repositories)
 
-- 📫 How to reach me **liyueqi235@gmail.com**
+- 📫 How to reach me ****
 
 - 📄 Know about my experiences [Personal Website](https://www.linkedin.com/in/yueqi19/)
 
